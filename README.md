@@ -1,2 +1,4 @@
-## frontend is in app
-## Just do `npm install` and then `npm run dev`
+INSTRUCTIONS :
+
+1. npm install
+2. npm run dev
